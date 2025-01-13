@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;pizza/src/main/webapp/coffee.sql&apos; to &apos;pizza.sql&apos;" description="Rename resource &apos;coffee.sql&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/coffee.sql" name="pizza.sql" stamp="1732539527621" updateReferences="true"/>
+</session>
